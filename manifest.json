@@ -1,6 +1,6 @@
 {
-  "name": "SRgrp Modpack",
-  "version_number": "1.0.0",
+  "name": "SRgrpModpack",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/yavin87/SRgrp-Modpack",
   "description": "A collection of Valheim mods from Thunderstore.io for use in coop",
   "dependencies": [
