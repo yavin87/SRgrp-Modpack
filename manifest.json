@@ -4,8 +4,12 @@
   "website_url": "https://github.com/yavin87/SRgrp-Modpack",
   "description": "A collection of mods from Thunderstore that we've curated for our use in coop.",
   "dependencies": [
-    "Mod-A-1.1.1",
-    "Mod-B-2.2.2",
-    "Mod-C-3.3.3"
+    "denikson-BepInExPack_Valheim-5.4.901",
+    "Masa-BetterUI-1.6.4",
+    "Masa-FirstPerson-1.0.2",
+    "ToastyWzrd-HoldAttack-0.4.2",
+    "Hedrymas-Better_Accuracy-1.0.3",
+    "chase000-BowZoom-0.0.1",
+    "Xenofell-RememberIPDamnit-0.2.0"
   ]
 }
