@@ -1,0 +1,11 @@
+{
+  "name": "SRgrp Modpack",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/yavin87/SRgrp-Modpack",
+  "description": "A collection of mods from Thunderstore that we've curated for our use in coop.",
+  "dependencies": [
+    "Mod-A-1.1.1",
+    "Mod-B-2.2.2",
+    "Mod-C-3.3.3"
+  ]
+}
