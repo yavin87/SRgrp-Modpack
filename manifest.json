@@ -1,6 +1,6 @@
 {
   "name": "SRgrpModpack",
-  "version_number": "1.0.2",
+  "version_number": "1.2.0",
   "website_url": "https://github.com/yavin87/SRgrp-Modpack",
   "description": "A collection of Valheim mods from Thunderstore.io for use in coop",
   "dependencies": [
@@ -8,8 +8,23 @@
     "Masa-BetterUI-1.6.4",
     "Masa-FirstPerson-1.0.2",
     "ToastyWzrd-HoldAttack-0.4.2",
-    "Hedrymas-Better_Accuracy-1.0.3",
+    "Xenofell-RememberIPDamnit-0.2.0",
+    "nearbear-BiggerBoatMapExploreRadius-1.0.3",
+    "Xenofell-TorchesEternal-0.2.0",
+    "Nextek-SpeedyPaths-1.0.4",
+    "sweetgiorni-AnyPortal-1.0.4",
+    "KaceCottam-TripleBronze-0.2.1",
+    "pipakin-SkillInjector-1.1.1",
+    "pipakin-GatheringSkill-2.0.3",
+    "Xenofell-Skillful-0.3.0",
+    "Rolo-ExploreTogether-1.3.0",
+    "abearcodes-SimpleRecycling-0.0.13",
+    "Nexus-FarmGrid-0.2.0",
+    "Ivan0xFF-CropReplant-2.1.1",
+    "Nexus-SimpleSort-0.7.0",
     "chase000-BowZoom-0.0.1",
-    "Xenofell-RememberIPDamnit-0.2.0"
+    "Hedrymas-Better_Accuracy-1.0.3",
+    "mgway-PaddlePower-1.0.2",
+    "virtuaCode-TrashItems-1.2.3"
   ]
 }
