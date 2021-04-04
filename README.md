@@ -1,19 +1,19 @@
 # Useful keybindings
-##### General
-`F6` toggle 1st person view  
-`H` toggle mod "Hold to Attack" on/off
-
 ##### Exploration
-`T` create a ping at your crosshairs  
-`F10` share your uncovered parts of the map  
-`Left Alt + Middle Mouse` share an existing pin on your map
+`T` ping where you look  
+`F10` share your map  
+`Left Alt + Middle Mouse` on an existing map pin to share it with everyone
 
 ##### Inventory
-`del` delete mouseover'd item in inventory  
-`Ctrl + n/h/v` Sort inventory and containers by name/weight/value
+`Del` delete item in inventory (mouseover)  
+`Ctrl + n / h / v` sort inventory and containers by name, weight or value
 
-##### Crafting
-`Shift + e` on kiln, smelter, etc. to fill it completely
+##### Building & Crafting
+`b` enable Build Camera when hammer is equipped
+`Shift + e` on kiln, smelter, etc. to fill up (from inventory or nearby containers)
+
+##### Misc
+`h` toggle mod "Hold to Attack" on/off
 
 # Disclaimer
 This modpack is intended for personal use. All credit for each mod goes to the original developer(s).

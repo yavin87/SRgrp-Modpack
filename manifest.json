@@ -1,12 +1,11 @@
 {
   "name": "SRgrpModpack",
-  "version_number": "1.4.0",
+  "version_number": "1.4.2",
   "website_url": "https://github.com/yavin87/SRgrp-Modpack",
   "description": "A collection of Valheim mods from Thunderstore.io for use in coop",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.901",
     "Masa-BetterUI-1.6.4",
-    "Masa-FirstPerson-1.0.2",
     "ToastyWzrd-HoldAttack-0.4.2",
     "Xenofell-RememberIPDamnit-0.2.0",
     "Xenofell-TorchesEternal-0.2.0",
@@ -17,7 +16,6 @@
     "pipakin-GatheringSkill-2.0.3",
     "Xenofell-Skillful-0.3.0",
     "Rolo-ExploreTogether-1.3.0",
-    "abearcodes-SimpleRecycling-0.0.13",
     "Nexus-FarmGrid-0.2.0",
     "Ivan0xFF-CropReplant-2.1.1",
     "Nexus-SimpleSort-0.7.0",
@@ -35,6 +33,7 @@
     "rin_jugatla-Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc-1.6.2",
     "Crystal-Sated-1.1.2",
     "Crystal-Pathfinder-2.0.3",
-    "RandyKnapp-MinimalStatusEffects-1.0.3"
+    "RandyKnapp-MinimalStatusEffects-1.0.3",
+    "gittywithexcitement-Build_Camera-1.5.0"
   ]
 }
