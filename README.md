@@ -1,25 +1,19 @@
-# SR group Modpack
-
-### Useful keybindings
+# Useful keybindings
+##### General
 `F6` toggle 1st person view  
-`H` toggle Hold to attack on/off
+`H` toggle mod "Hold to Attack" on/off
 
+##### Exploration
+`T` create a ping at your crosshairs  
+`F10` share your uncovered parts of the map  
+`Left Alt + Middle Mouse` share an existing pin on your map
 
-### Modlist
-| Mod | Version | Author |
-| --- | --- | --- |
-| [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim) | 5.4.901 | denikson |
-| [Better Accuracy](https://valheim.thunderstore.io/package/Hedrymas/Better_Accuracy) | 1.0.3 | Hedrymas |
-| [BetterUI](https://valheim.thunderstore.io/package/Masa/BetterUI) | 1.6.4 | Masa |
-| [BowZoom](https://valheim.thunderstore.io/package/chase000/BowZoom) | 0.0.1 | chase000 |
-| [FirstPerson](https://valheim.thunderstore.io/package/Masa/FirstPerson) | 1.0.2 | Masa |
-| [HoldAttack](https://valheim.thunderstore.io/package/ToastyWzrd/HoldAttack) | 0.4.2 | ToastyWzrd |
-| [RememberIPDamnit](https://valheim.thunderstore.io/package/Xenofell/RememberIPDamnit) | 0.2.0 | Xenofell |
+##### Inventory
+`del` delete mouseover'd item in inventory  
+`Ctrl + n/h/v` Sort inventory and containers by name/weight/value
 
-### Custom config changes
-| Mod | Changed value(s) |
-| --- | --- |
-| BetterUI | `showCharacterXP = false` |
+##### Crafting
+`Shift + e` on kiln, smelter, etc. to fill it completely
 
-### Disclaimer
+# Disclaimer
 This modpack is intended for personal use. All credit for each mod goes to the original developer(s).

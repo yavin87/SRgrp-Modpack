@@ -1,6 +1,6 @@
 {
   "name": "SRgrpModpack",
-  "version_number": "1.2.0",
+  "version_number": "1.4.0",
   "website_url": "https://github.com/yavin87/SRgrp-Modpack",
   "description": "A collection of Valheim mods from Thunderstore.io for use in coop",
   "dependencies": [
@@ -9,7 +9,6 @@
     "Masa-FirstPerson-1.0.2",
     "ToastyWzrd-HoldAttack-0.4.2",
     "Xenofell-RememberIPDamnit-0.2.0",
-    "nearbear-BiggerBoatMapExploreRadius-1.0.3",
     "Xenofell-TorchesEternal-0.2.0",
     "Nextek-SpeedyPaths-1.0.4",
     "sweetgiorni-AnyPortal-1.0.4",
@@ -25,6 +24,17 @@
     "chase000-BowZoom-0.0.1",
     "Hedrymas-Better_Accuracy-1.0.3",
     "mgway-PaddlePower-1.0.2",
-    "virtuaCode-TrashItems-1.2.3"
+    "virtuaCode-TrashItems-1.2.3",
+    "RandyKnapp-Jam-1.0.2",
+    "ValheimModding-ValheimLib-0.0.15",
+    "ValheimModding-HookGenPatcher-0.0.2",
+    "OhhLoz-HoneyPlus-1.0.7",
+    "ASharpPen-Drop_That-1.5.0",
+    "ASharpPen-Drop_That_Boss_Metals-1.0.0",
+    "Crystal-BetterChat-1.4.1",
+    "rin_jugatla-Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc-1.6.2",
+    "Crystal-Sated-1.1.2",
+    "Crystal-Pathfinder-2.0.3",
+    "RandyKnapp-MinimalStatusEffects-1.0.3"
   ]
 }

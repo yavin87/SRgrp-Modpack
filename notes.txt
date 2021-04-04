@@ -1,59 +1,19 @@
-ExtendedDaytime: zu schneller Tag/Nacht Übergang. Keine schönen Sonnenuntergänge mehr :( REMOVED
-BetterArchery: zielt sehr random (char skill based?) Beschreibung lesen, config checken  REMOVED
-Sortiermod: für sich selbst (oder das persönliche Inventory abstellen)                   config angepasst
-Sortiermod Config angepasst so dass die oberste Reihe (die unter der Hotbar) nicht sortiert wird. Genug Platz für Full Armor + Arrows + 3x Futter
+mods to discuss:
 
-
-to discuss:
-BetterChat
 BuildHelper
 Build Camera
 ImprovedBuildHud
-AutoFuel / Add all fuel (tin ore ging nicht damit)
-MinimalStatusEffects
-Tree Status
-HoneyPlus
-Jam
-FermenterPercentage
-WoodPiles
 no rain dmg mod
-preworkout / Sated
 Locate Merchant / Merchant Finder (better than changing to fully explored seed)
 Surtling Boat (fun)
-DropThat.BossMetal (cheaty?)
-Pathfinder (statt BiggerBoatMapExploreRadius)
-EmoteWheel (fluff)
-
-
-removed:
-ExtendedDaytime
-BetterArchery
-
-added:
-BetterAccuracy
-BowZoom
-Trash Mod
-PaddlePower
-
-
-config to add:
-SimpleSort (row1 ignore)
-BowZoom (1.5x zoom)
-SpeedyPaths (no buff icon)
-PaddlePower (seated helpers only)
-
 
 TODO
-jetzigen Stand testen
-neue Modliste ins manifest.json
-neue configs hinzufügen (siehe oben)
-hochladen
-testen
+test
 update README
-(wichtige shortkeys, infos, etc.)
 notify all
 
 
+==================================
 Mod ideas:
 pickaxe alt attack: character skill based power attack that consumes stamina proportional to rock/vein hp and skill level
 portal map: use portal opens portal map to set target portal
