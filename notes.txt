@@ -17,4 +17,18 @@ notify all
 Mod ideas:
 pickaxe alt attack: character skill based power attack that consumes stamina proportional to rock/vein hp and skill level
 portal map: use portal opens portal map to set target portal
+
+
+easy mod? Do this first :)
 mushrooms: all mushrooms (red AND yellow) can be used for recipies requiring a mushroom!
+
+approach idea: find in code where crafting of carrot soup occurs and, if possible, when crafting carrot soup, check for red OR yellow mushroom and don't forget to remove it from inventory
+maybe crafting or cookingstation ?
+easy way out: create new recipe for carrot soup (and serpent stew) with yellow mushrooms
+but, how about modifying how the station processes the recipe? if player has no red mushrooms in inventory, modify existing recipe to use yellow mushroom, then restore it
+
+name ideas: Any Mushroom, Any Mushroom Can Be Soup, Any Mushroom Can Be Cooked, All Mushrooms Are Delicious, Any Mushroom In Soup
+
+
+=======================
+why is onground method executed in air?

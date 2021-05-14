@@ -14,6 +14,7 @@
 
 ##### Misc
 `h` toggle mod "Hold to Attack" on/off
+`F7` toggle UI edit mode on/off
 
 # Disclaimer
 This modpack is intended for personal use. All credit for each mod goes to the original developer(s).
